@@ -187,7 +187,7 @@
     "extendr": "^3.2.2",
     "extract-opts": "^3.3.1",
     "getrepos": "^1.0.7",
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "assert-helpers": "^4.4.0",
